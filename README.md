@@ -3,11 +3,11 @@ Fabric Defect Detection using YOLOv8 with Iterative Transfer Learning
 
 Project Description
 -------------------
-This project focuses on automated fabric defect detection using the YOLO (You Only Look Once) object detection framework. The primary goal is to identify four common types of fabric defects—Holes, Stains, Cuts, and Tear Cuts—through a highly optimized model training strategy combining Transfer Learning and Iterative Learning.
+This project focuses on automated fabric defect detection using the YOLO (You Only Look Once) object detection framework . The primary goal is to identify four common types of fabric defects—Holes, Stains, Cuts, and Tear Cuts—through a highly optimized model training strategy combining Transfer Learning and Iterative Learning.
 
 Dataset
 -------
-The dataset used is the "Fabric Defects Object Detection Dataset" from FigShare [17]. It contains annotated images representing four fabric defect classes:
+The dataset used is the "Fabric Defects Object Detection Dataset" from FigShare. It contains annotated images representing four fabric defect classes:
 - Holes
 - Stains
 - Cuts
