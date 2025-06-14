@@ -7,7 +7,9 @@ This project focuses on automated fabric defect detection using the YOLO (You On
 
 Dataset
 -------
-The dataset used is the "Fabric Defects Object Detection Dataset" from FigShare. It contains annotated images representing four fabric defect classes:
+The dataset used is the "Fabric Defects Object Detection Dataset" from FigShare.
+link : https://figshare.com/articles/dataset/FD_Dataset_7z/25546465
+It contains annotated images representing four fabric defect classes:
 - Holes
 - Stains
 - Cuts
