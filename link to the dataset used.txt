@@ -1,0 +1,12 @@
+Here I have used this "Fabric Defects Object Detection Dataset" from FigShare:
+Dataset link : https://figshare.com/articles/dataset/FD_Dataset_7z/25546465
+
+It contains annotated images representing four fabric defect classes:
+
+Holes
+Stains
+Cuts
+Tear Cuts
+
+Disclaimer:
+The dataset used in this project is the intellectual property of its original author/creator. It has been utilized strictly for research, development, and educational purposes only. All rights to the dataset remain with the respective owner.
